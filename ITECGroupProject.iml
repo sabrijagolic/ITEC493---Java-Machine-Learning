@@ -8,5 +8,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="javaml" level="project" />
+    <orderEntry type="library" name="ajt-2.9" level="project" />
+    <orderEntry type="library" name="commons-math-1.2" level="project" />
+    <orderEntry type="library" name="Jama-1.0.2" level="project" />
+    <orderEntry type="library" name="libsvm" level="project" />
+    <orderEntry type="library" name="weka" level="project" />
   </component>
 </module>
